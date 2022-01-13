@@ -26,6 +26,8 @@ the project.
 
 - Centering element horizontally and vertically was challenging.
 - Learned and started using flexbox which is really useful, after overcoming first struggles of course.
+- Used different types of selectors in CSS.
+- Border radius added for the first time.
 
 
 ## My process
